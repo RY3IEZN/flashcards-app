@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Uneku-Ejiga-s-workspace-d19ahr.eu-central-1.xata.sh/db/flashcard-demo",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
